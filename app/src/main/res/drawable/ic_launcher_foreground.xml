@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer conveyor belt loop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,40 C10,40 10,60 15,60 L93,60 C98,60 98,40 93,40 Z M15,44 L93,44 C96,44 96,56 93,56 L15,56 C12,56 12,44 15,44 Z" />
+
+    <!-- Rollers / Gears inside the belt -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M83,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Support structure -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,60 L25,75 H35 L30,60 Z M78,60 L73,75 H83 L78,60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,75 H88 V79 H20 Z" />
+</vector>

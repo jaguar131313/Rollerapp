@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593446968975",
+    "project_id": "osmotr-2499b",
+    "storage_bucket": "osmotr-2499b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593446968975:android:160afb9c20acf9143fdafa",
+        "android_client_info": {
+          "package_name": "com.example.rollerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocSLYghP1WFsvfLlbo_JKh1Hhi-dCs3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
